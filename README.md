@@ -29,3 +29,6 @@ Currently, I'm improving my **C++**, **Python**, and **web development** skills.
 
 ---
 
+### 🐍  GitHub (Contribution Snake)
+![GitHub Snake](https://github.com/Assylbek-Uzakbayev/Assylbek-Uzakbayev/blob/output/snake.svg)
+
